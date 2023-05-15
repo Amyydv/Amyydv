@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif">
+  <img src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif" width="800" height="300">
 </h1>
 
 
