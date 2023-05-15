@@ -1,8 +1,7 @@
+<h1>
+  <img src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif">
+</h1>
 
-<html> <img src = "C:\Users\ADMIN\Desktop\amy.jpg"> </html>
-<a href="default.asp">
-  <img src = "C:\Users\ADMIN\Desktop\amy.jpg">
-</a>
 
 # 💫 About Me:
 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 𝐰𝐢𝐭𝐡 𝐬𝐭𝐫𝐨𝐧𝐠 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐛𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝. 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐦𝐢𝐧𝐝𝐬𝐞𝐭 𝐭𝐡𝐚𝐭 𝐟𝐨𝐜𝐮𝐬𝐞𝐬 𝐨𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐧𝐝 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐢𝐧𝐠 𝐬𝐭𝐫𝐢𝐜𝐭 𝐝𝐞𝐚𝐝𝐥𝐢𝐧𝐞𝐬
