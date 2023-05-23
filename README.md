@@ -1,6 +1,3 @@
-<h1>
-  <img src="[AI_Animated](https://github.com/Amyydv/Amyydv/assets/112614485/121b6253-ee95-49cf-8d0c-acab6446aee8).gif" width="800" height="300">
-</h1>
 
 ![AI_Animated](https://github.com/Amyydv/Amyydv/assets/112614485/121b6253-ee95-49cf-8d0c-acab6446aee8)
 
